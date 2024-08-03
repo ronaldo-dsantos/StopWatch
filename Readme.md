@@ -1,3 +1,3 @@
 # Cronômetro C#
 
-Aplicação desenvolvida para fixar alguns conceitos de lógica de programação em C#
+Cronômetro com as funções de contar em minutos e segundos desenvolvido para fixar alguns conceitos de lógica de programação em C#
